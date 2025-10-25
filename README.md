@@ -1,6 +1,6 @@
 # Business Management Web Application : <br>
 
-![home (2)](https://github.com/vishwajeet8401/Business_Management_Project/assets/126138738/e8db8f17-72d6-42a0-b264-def0bf883bbf)
+![home (2)](https://github.com/Vishwajeet8401/businessManagementProject/assets/126138738/e8db8f17-72d6-42a0-b264-def0bf883bbf)
 
 
 
